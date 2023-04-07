@@ -20,6 +20,61 @@
       "name" : "CSVFORMAT_File"
     } ]
   }, {
+    "contextName" : "Default",
+    "repoId" : "_JcQrMNVLEe2ymJspSpzysg",
+    "parameterList" : [ {
+      "id" : "_JchJ4dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_account"
+    }, {
+      "id" : "_JchJ59VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_jdbcParameters"
+    }, {
+      "id" : "_JchJ8NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_clientId"
+    }, {
+      "id" : "_JchJ7NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_clientSecret"
+    }, {
+      "id" : "_JchJ7tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_JchJ4tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_keyAlias"
+    }, {
+      "id" : "_JchJ6NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_JchJ69VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_userPassword_password"
+    }, {
+      "id" : "_JchJ6tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_loginTimeout"
+    }, {
+      "id" : "_JchJ8dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_regionID"
+    }, {
+      "id" : "_JchJ5tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_scope"
+    }, {
+      "id" : "_JchJ5dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_role"
+    }, {
+      "id" : "_JchJ6dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_schemaName"
+    }, {
+      "id" : "_JchJ49VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_JchJ5NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_warehouse"
+    }, {
+      "id" : "_JchJ7dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_db"
+    }, {
+      "id" : "_JchJ79VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_userPassword_userId"
+    } ]
+  }, {
     "contextName" : "DEV",
     "repoId" : "_4V0HoNVKEe2ymJspSpzysg",
     "parameterList" : [ {
@@ -37,6 +92,61 @@
     }, {
       "id" : "_4WEmUtVKEe2ymJspSpzysg",
       "name" : "CSVFORMAT_File"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_JcQrMNVLEe2ymJspSpzysg",
+    "parameterList" : [ {
+      "id" : "_JchJ4dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_account"
+    }, {
+      "id" : "_JchJ59VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_jdbcParameters"
+    }, {
+      "id" : "_JchJ8NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_clientId"
+    }, {
+      "id" : "_JchJ7NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_clientSecret"
+    }, {
+      "id" : "_JchJ7tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_JchJ4tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_keyAlias"
+    }, {
+      "id" : "_JchJ6NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_JchJ69VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_userPassword_password"
+    }, {
+      "id" : "_JchJ6tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_loginTimeout"
+    }, {
+      "id" : "_JchJ8dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_regionID"
+    }, {
+      "id" : "_JchJ5tVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_scope"
+    }, {
+      "id" : "_JchJ5dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_role"
+    }, {
+      "id" : "_JchJ6dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_schemaName"
+    }, {
+      "id" : "_JchJ49VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_JchJ5NVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_warehouse"
+    }, {
+      "id" : "_JchJ7dVLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_db"
+    }, {
+      "id" : "_JchJ79VLEe2ymJspSpzysg",
+      "name" : "dwhsnowflake_userPassword_userId"
     } ]
   } ]
 }
