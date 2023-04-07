@@ -1,0 +1,23 @@
+{
+  "itemId" : "_JX8GUNUTEe2ymJspSpzysg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_4V0HoNVKEe2ymJspSpzysg",
+    "parameterList" : [ {
+      "id" : "_4WEmUdVKEe2ymJspSpzysg",
+      "name" : "CSVFORMAT_FieldSeparator"
+    }, {
+      "id" : "_4WEmUtVKEe2ymJspSpzysg",
+      "name" : "CSVFORMAT_File"
+    }, {
+      "id" : "_4WEmU9VKEe2ymJspSpzysg",
+      "name" : "CSVFORMAT_Encoding"
+    }, {
+      "id" : "_4WEmVNVKEe2ymJspSpzysg",
+      "name" : "CSVFORMAT_RowSeparator"
+    }, {
+      "id" : "_4WEmVdVKEe2ymJspSpzysg",
+      "name" : "CSVFORMAT_Header"
+    } ]
+  } ]
+}
