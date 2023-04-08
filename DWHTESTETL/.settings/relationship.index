@@ -25,4 +25,31 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_dPHsgNVdEe28_sAI8zO3fA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_4V0HoNVKEe2ymJspSpzysg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_JcQrMNVLEe2ymJspSpzysg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_JX8GUNUTEe2ymJspSpzysg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZL8R8NUQEe2ymJspSpzysg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_JX8GUNUTEe2ymJspSpzysg - EmployeeDataFormat",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
